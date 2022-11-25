@@ -1,3 +1,4 @@
+package ConceitosMetodos;
 public class Mensagem {
     public static void obterMensagem(int hora) {
 
